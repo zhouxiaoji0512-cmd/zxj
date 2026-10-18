@@ -1,0 +1,58 @@
+参考文献清单（文件内核实；未作网络二次核验）
+正文优先使用 R01–R06；其余按实际陈述选择，避免充数。R12–R14未核定出版书目；当前不得补造DOI或年份。
+R01 · d6sc02210c.pdf
+Shunhua Li; Hangyu Zhou; Qingzhong Li; Steve Scheiner. Strong interactions between carbones and halogen atomic centers. Chemical Science, 2026, 17, 14950–14962.
+DOI: https://doi.org/10.1039/d6sc02210c
+状态：已从PDF首页核对。用途：C(0)-ClOH强作用直接对照；不等于两端竞争。
+R02 · jp806101t.pdf
+Ibon Alkorta; Fernando Blanco; Mohammad Solimannejad; José Elguero. Competition of Hydrogen Bonds and Halogen Bonds in Complexes of Hypohalous Acids with Nitrogenated Bases. Journal of Physical Chemistry A, 2008, 112, 10856–10863.
+DOI: https://doi.org/10.1021/jp806101t
+状态：已从PDF核对。用途：HOX竞争背景；能量定义不同且无CP，不能混用。
+R03 · s00894-013-1969-7.pdf
+Xiulin An; Hongying Zhuo; Yingying Wang; Qingzhong Li. Competition between hydrogen bonds and halogen bonds in complexes of formamidine and hypohalous acids. Journal of Molecular Modeling, 2013, 19, 4529–4535.
+DOI: https://doi.org/10.1007/s00894-013-1969-7
+状态：已从PDF核对。用途：HOX竞争和多指标；受体是N。
+R04 · j.saa.2014.05.001.pdf
+Qingzhong Li; Hongjie Zhu; Hongying Zhuo; Xin Yang; Wenzuo Li; Jianbo Cheng. Complexes between hypohalous acids and phosphine derivatives. Pnicogen bond versus halogen bond versus hydrogen bond. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 2014, 最终卷页待核实.
+DOI: https://doi.org/10.1016/j.saa.2014.05.001
+状态：Accepted Manuscript；DOI已核对。用途：HOX多构型背景；受体中心P。
+R05 · d4cp03894k.pdf
+Ibon Alkorta; Anthony Legon. Simple carbenes as hydrogen bond acceptors: ab initio determination of nucleophilicities and reduced nucleophilicities. Physical Chemistry Chemical Physics, 2025, 27, 942–950.
+DOI: https://doi.org/10.1039/d4cp03894k
+状态：正式卷期2025；在线2024。用途：Carbene不是carbone；转移候选应分组。
+R06 · Chemistry An Asian Journal - 2024 - Herrmann - Directionality of Halogen‐Bonds Insights from 2D Energy Decomposition (1).pdf
+Barbara Herrmann; Dennis Svatunek. Directionality of Halogen-Bonds: Insights from 2D Energy Decomposition Analysis. Chemistry – An Asian Journal, 2024, 19, e202301106.
+DOI: https://doi.org/10.1002/asia.202301106
+状态：已从PDF核对。用途：方向性与分项强度区分；NH3-X2不直接等于本体系。
+R07 · ja3c11449.pdf
+Lianne H. E. Wieske; Mate Erdélyi. Halogen Bonds of Halogen(I) Ions—Where Are We and Where to Go?. Journal of the American Chemical Society, 2024, 146, 3–18.
+DOI: https://doi.org/10.1021/jacs.3c11449
+状态：Perspective；正式2024在线2023。用途：强卤键/转移概念；不可把中性HOCl自动视同X(I)模型。
+R08 · molecules-26-01885.pdf
+Susana Portela; Israel Fernández. Nature of the Hydrogen Bond Enhanced Halogen Bond. Molecules, 2021, 26, 1885.
+DOI: https://doi.org/10.3390/molecules26071885
+状态：PDF已核对；分项表注与方法有内部不一致，详实读记录。用途：EDA-NOCV框架；不照搬有误表注。
+R09 · c6ce02089e.pdf
+M. D. Perera; J. Desper; A. S. Sinha; C. B. Aakeröy. Impact and importance of electrostatic potential calculations for predicting structural patterns of hydrogen and halogen bonding. CrystEngComm, 2016, 18, 8631–8636.
+DOI: https://doi.org/10.1039/c6ce02089e
+状态：已从PDF核对。用途：受限MEP位点预测；固态选择不可直接外推。
+R10 · cg500094b.pdf
+Firas F. Awwadi; Deeb Taher; Salim F. Haddad; Mark M. Turnbull. Competition between Hydrogen and Halogen Bonding Interactions: Theoretical and Crystallographic Studies. Crystal Growth & Design, 2014, 14, 1961–1971.
+DOI: https://doi.org/10.1021/cg500094b
+状态：已从PDF核对。用途：带电簇/晶体竞争背景，不迁移绝对能量。
+R11 · cplu.202100102.pdf
+Amila M. Abeysekera; Boris B. Averkiev; Abhijeet S. Sinha; Pierre Le Magueres; Christer B. Aakeröy. Establishing Halogen-Bond Preferences in Molecules with Multiple Acceptor Sites. ChemPlusChem, 2021, 86，最终页码待核实.
+DOI: https://doi.org/10.1002/cplu.202100102
+状态：预排版提示非最终页码。用途：位点可及性/结构环境背景。
+R12 · Comparison Between Hydrogen and Halogen Bonds in Complexes of 6-O.pdf
+Mingchang Hou; Qingzhong Li; Steve Scheiner. Competition between Hydrogen and Halogen Bonds in Complexes of 6-OX-Fulvene with Pnicogen and Chalcogen Electron Donors. 正式发表信息待核实, 待核实, 待核实.
+DOI：【待核实】
+状态：含DOI占位符的手稿；不能正式引用为已发表论文。用途：暂作思路对照；不同酸并非同一HOCl双端。
+R13 · cs3c01131_si_001.pdf
+Yuheng Zhang; Haimeng Zhu; Boyuan Zhang; Huijuan Yang; Choon-Hong Tan; Chao Wang; Jin Wen; Lili Zong. Hydrogen Bond Enhanced Halogen Bonding Organocatalyst with C(sp3)-Br and Sulfoxide Moieties [Supporting Information]. 父文献刊名待核实, 待核实, 待核实.
+DOI：【待核实】
+状态：仅SI；未提供父文献书目，不从文件名推断。用途：氢/卤键协同背景；不作本题竞争结果证据。
+R14 · ja0c12084_si_001.pdf
+Mujahuddin M. Siddiqui; Samir Kumar Sarkar; Mohd Nazish; Massimiliano Morganti; Christian Köhler; Jiali Cai; Lili Zhao; Regine Herbst-Irmer; Dietmar Stalke; Gernot Frenking; Herbert W. Roesky. Donor Stabilized Antimony(I) and Bismuth(I) Ions: Heavier Valence Isoelectronic Analogues of Carbones [Supporting Information]. 父文献刊名待核实, 待核实, 待核实.
+DOI：【待核实】
+状态：仅SI；未提供父文献书目，不从文件名推断。用途：重元素类比/EDA片段态；不是本研究碳(0)结果。

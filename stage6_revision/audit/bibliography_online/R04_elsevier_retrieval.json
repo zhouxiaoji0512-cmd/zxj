@@ -1,0 +1,7 @@
+{
+  "label": "R04_elsevier",
+  "source_url": "https://linkinghub.elsevier.com/retrieve/doi/10.1016/j.saa.2014.05.001",
+  "accept": "text/html",
+  "retrieved_at_utc": "2026-10-19T10:18:32.601329+00:00",
+  "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+}

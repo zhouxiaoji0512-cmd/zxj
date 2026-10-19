@@ -1,0 +1,7 @@
+{
+  "label": "R11_doi",
+  "source_url": "https://doi.org/10.1002/cplu.202100102",
+  "accept": "text/html",
+  "retrieved_at_utc": "2026-10-19T10:18:32.600945+00:00",
+  "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+}

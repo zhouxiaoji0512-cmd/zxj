@@ -1,0 +1,7 @@
+﻿当前编号,内部资产标识,文件主干,历史编号或计划,已实施设计,正文位置,绘图数据,图题,证据范围,输出格式,状态
+图1,F2,F2_bond_response,图3-4,三面板：H端全28、H端其余25局部、Cl端28,图1；3.2节,data/figure_F2_internal_bond_response.csv,图1 HOCl内部键长响应,内部键响应；单位待核实，非转移确证,300 dpi PNG / SVG / PDF,通用修订已完成；目标期刊体例待指定
+图2,F1,F1_energy_competition,图3-5,三面板：两端Eb、δb、δint；菱形候选，9对反转阴影,图2和表1；3.3节,data/figure_F1_energy_competition.csv,图2 28对体系的两端Eb与竞争差量,表内低值端及能量指标反转；非自由能选择性,300 dpi PNG / SVG / PDF,通用修订已完成；目标期刊体例待指定
+图3,F3,F3_eda_components,图4-8,五对体系、五分项正负堆叠及总量；独立纵轴,图3和表2；4.3节,data/figure_F3_EDA_components.csv,图3 代表体系的完整EDA分项与总量,分项抵消；不等同纯色散、方向性或Eb排序,300 dpi PNG / SVG / PDF,通用修订已完成；目标期刊体例待指定
+图4,F4,F4_geometry_candidates,图5-1,两面板几何散点，各端28；四候选及CO参照,图4和表3；5.1节,data/figure_F4_geometry_screening.csv,图4 新旧接触的分端几何筛查,新旧接触同步响应；不是优化结构或路径图,300 dpi PNG / SVG / PDF,通用修订已完成；目标期刊体例待指定
+图S1,S1,S1_energy_audit,原S1计划已替换,两面板：五项闭合残差、EDA与bess差；全56,补充材料S3；4.3节引用,data/figure_S1_energy_audit.csv,图S1 EDA求和与跨表能量审计,三处异常及舍入范围；不是理论误差,300 dpi PNG / SVG / PDF,通用修订已完成；目标期刊体例待指定
+图S2,S2,S2_mep_competition,原S2同字段MEP方案,两面板：B列24点全图及局部；C列4条不并入,补充材料S3；3.1节引用,data/figure_S2_MEP_exploratory.csv,图S2 同字段MEP与两端Eb差的探索性比较,同字段探索；不证明单调因果，非MEP表面,300 dpi PNG / SVG / PDF,通用修订已完成；目标期刊体例待指定

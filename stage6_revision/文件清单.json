@@ -1,0 +1,686 @@
+{
+  "date": "2026-10-19",
+  "status": "通用修订完成；目标期刊待提供",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2323,
+      "sha256": "49087fb9941d39cd96d51d227d429320b15f7d00db133dff3a8518ee2dec5a9c"
+    },
+    {
+      "path": "audit/baseline_final_validation.json",
+      "bytes": 1777,
+      "sha256": "fa914274b3640bec818ed6389cce2586e66a08d4baadf4bc93aabca2b0780d8d"
+    },
+    {
+      "path": "audit/baseline_numerical_audit.md",
+      "bytes": 12699,
+      "sha256": "e00ab9526649f0a94fa0fd3f162e7d6dedd8b7c61646833fa45cf8518da61f5b"
+    },
+    {
+      "path": "audit/baseline_reference_audit.md",
+      "bytes": 17218,
+      "sha256": "ffaae73e848fb6e7832c4d9597ad1f126f5a4280cdc57151aff59d67c74ea730"
+    },
+    {
+      "path": "audit/bibliography_online/R01_retrieval.json",
+      "bytes": 245,
+      "sha256": "e5765af3fc52c000fa5ba5c618213f6da20a943f718ed78618644b69c99af35e"
+    },
+    {
+      "path": "audit/bibliography_online/R02_retrieval.json",
+      "bytes": 243,
+      "sha256": "74a9e068c6b32ccd72355cfef7f0161cb35391b41c17a0e5e6e9e436940638b3"
+    },
+    {
+      "path": "audit/bibliography_online/R03_retrieval.json",
+      "bytes": 259,
+      "sha256": "c8c7189bc2a919c049c9b188ed8e2d6f5b7ee5d348ba307f6e9023b69f16be6e"
+    },
+    {
+      "path": "audit/bibliography_online/R04_crossref_http_response.txt",
+      "bytes": 16,
+      "sha256": "301ab39b129a9f65a8f8d7bfee350718cd0268497182e59c7ce9c036adf0a213"
+    },
+    {
+      "path": "audit/bibliography_online/R04_crossref_http_retrieval.json",
+      "bytes": 261,
+      "sha256": "6bcd8a455ee03032dd7f11855f3e854d3cb33b124c52e85e3affbea5847e9368"
+    },
+    {
+      "path": "audit/bibliography_online/R04_doi_retrieval.json",
+      "bytes": 238,
+      "sha256": "70bf547d8fc97ab441a51513bd141fdab98aa30e8e7acd988008f60fa825e0f7"
+    },
+    {
+      "path": "audit/bibliography_online/R04_elsevier_retrieval.json",
+      "bytes": 272,
+      "sha256": "35b21848f80245125e5da7249c38ee28bb77d32b4165f58fd3bb580185be8a59"
+    },
+    {
+      "path": "audit/bibliography_online/R04_retrieval.json",
+      "bytes": 259,
+      "sha256": "d5e255daa77618e51bc5fa14efde6f6a0b1c6d41b2de26eaa29d4683c86552d0"
+    },
+    {
+      "path": "audit/bibliography_online/R05_retrieval.json",
+      "bytes": 245,
+      "sha256": "4fef20229b4f10dbc98682df88dccabd5efdb27193d53121a58bb88510522112"
+    },
+    {
+      "path": "audit/bibliography_online/R06_retrieval.json",
+      "bytes": 253,
+      "sha256": "03e6d57ad12173ff9b3f28049aa24e15fcb69a77ebab90345dee44200e85d3d0"
+    },
+    {
+      "path": "audit/bibliography_online/R07_retrieval.json",
+      "bytes": 249,
+      "sha256": "07be729a52df10f223656b42d6f3d1912cd7bff5ebc8dbfb519f1879b53afa00"
+    },
+    {
+      "path": "audit/bibliography_online/R08_retrieval.json",
+      "bytes": 259,
+      "sha256": "8bc9248cf817a5ece4b060b57011678bc03ba00ed6d171b35218b2b43666b0bf"
+    },
+    {
+      "path": "audit/bibliography_online/R09_retrieval.json",
+      "bytes": 245,
+      "sha256": "1bdc20538bab4f49353692d88603c07b7803150af1c1335d945b357a44f23dc9"
+    },
+    {
+      "path": "audit/bibliography_online/R10_retrieval.json",
+      "bytes": 243,
+      "sha256": "15d5622577e3adb7a68f0bb1f9b937cf2bfa2187bd750af37e3a624b9f65475f"
+    },
+    {
+      "path": "audit/bibliography_online/R11_crossref_doi_retrieval.json",
+      "bytes": 274,
+      "sha256": "b2dc2539353aea35191a6c268015b2196ed59b7e7c7e0a764fabc4c7043c84a0"
+    },
+    {
+      "path": "audit/bibliography_online/R11_doi_retrieval.json",
+      "bytes": 235,
+      "sha256": "739df1a0b18204532f7e21f5bbb0d88a5dfb9792b0e0846ec9ed0fe8d7a35822"
+    },
+    {
+      "path": "audit/bibliography_online/R11_retrieval.json",
+      "bytes": 253,
+      "sha256": "42aaabe9e413bcb46f9c1f02b66dd03f8c4d4508cd42d0dc856b02becb2f1bc8"
+    },
+    {
+      "path": "audit/bibliography_online/R11_wiley_retrieval.json",
+      "bytes": 274,
+      "sha256": "8ffd65a2a33b828fb708af48276f1478bcbddcf1a7dd999c90db0f87f132504a"
+    },
+    {
+      "path": "audit/bibliography_online/check.py",
+      "bytes": 1712,
+      "sha256": "3c7129e7c2e10187c24212022b73cca7ac05f9345c859a6913497a0de3393c10"
+    },
+    {
+      "path": "audit/bibliography_online/crossref_results.json",
+      "bytes": 2931,
+      "sha256": "365f275262c9d1e179c7db2eef3b8df2152e4b552c5a885f71005e88ccf9b89a"
+    },
+    {
+      "path": "audit/bibliography_online/finalize.py",
+      "bytes": 4261,
+      "sha256": "5291858c81c003ec320b9fb2cd42101de2337095102aadfa753ce2f71bad7cbd"
+    },
+    {
+      "path": "audit/bibliography_online/secondary.py",
+      "bytes": 1638,
+      "sha256": "297833ca36512754438200a4561824f88e970ca7774cecd26b01e39ba59b5241"
+    },
+    {
+      "path": "audit/bibliography_online/verified.json",
+      "bytes": 16492,
+      "sha256": "626931e5223c072621769cb702d0516d37c485aefe1bbe2277aaa549d93f017d"
+    },
+    {
+      "path": "audit/bibliography_online_attempt.md",
+      "bytes": 4245,
+      "sha256": "e6682293835192dfabd8d4a9fad60df4ee748f1f6677b6c5d332129cd30add81"
+    },
+    {
+      "path": "audit/data_recheck.md",
+      "bytes": 4858,
+      "sha256": "7af68f065137cf08c2c07b0479498f81357324e3f3fd18c86c38862b1742f77a"
+    },
+    {
+      "path": "audit/delivery_status.json",
+      "bytes": 345,
+      "sha256": "f13a6b6530ea1f79d4c12e720b9e1eb042892e8935bd2fffa6ab756ea36462f4"
+    },
+    {
+      "path": "audit/editorial_recheck.md",
+      "bytes": 2312,
+      "sha256": "cfe96c7b68e087451a67f264cfcef7aed409612ad34eb21235ca70a4f20d1798"
+    },
+    {
+      "path": "audit/editorial_review.md",
+      "bytes": 14035,
+      "sha256": "8826700addcf807beb835812d51204198cccb0e44df4038e1726daf6301a8adb"
+    },
+    {
+      "path": "audit/final_validation.json",
+      "bytes": 2404,
+      "sha256": "5a785136831dc8b16ac6593060028cc7fcc0cb51063fd94f6e42d0855f655418"
+    },
+    {
+      "path": "audit/preview_revision_01.png",
+      "bytes": 184026,
+      "sha256": "1dabf8bcbf5efa4c04de589d07e90df273fbbb5d7d39912f8b3381394de2aa53"
+    },
+    {
+      "path": "audit/preview_revision_08.png",
+      "bytes": 135542,
+      "sha256": "312b39f8e6605f4e9f669b305a3bc87daf3df69017ea064bd3c6b2e794af62cf"
+    },
+    {
+      "path": "audit/preview_revision_10.png",
+      "bytes": 106536,
+      "sha256": "674ea5f0892db2659f4a596e506d1b833a4226e53914d98830d20f0517badd72"
+    },
+    {
+      "path": "audit/preview_revision_15.png",
+      "bytes": 117167,
+      "sha256": "e9f8abd3615a2bcfd98f749540cbc9bb307904ffba83f37e0e11e4c7918a7d26"
+    },
+    {
+      "path": "audit/preview_revision_17.png",
+      "bytes": 108116,
+      "sha256": "1f8f52f6b38853cf3c68915d81b660d33da797338e882169ccd8919a62058acd"
+    },
+    {
+      "path": "audit/readiness_review.md",
+      "bytes": 8416,
+      "sha256": "c571e0d17a8ebf6de6f76942b59d9c90ce41865d6bf107ba43899714838680d4"
+    },
+    {
+      "path": "audit/references.json",
+      "bytes": 25848,
+      "sha256": "e662daef04edd302398be4431aea97960a1c900bbf944b04581ff762b56eda06"
+    },
+    {
+      "path": "audit/word_exports.json",
+      "bytes": 671,
+      "sha256": "406b2a7f5421ece8316492cb05453c3bb981897307b9bebc582aa73fb1fc7c8a"
+    },
+    {
+      "path": "audit/完整论文修订稿.pdf.log",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "audit/补充材料.md.pdf-source.md",
+      "bytes": 6778,
+      "sha256": "f71208a4584ba3b62e348014f155b8056dfe369bfaab5435d7fd6650347f9b57"
+    },
+    {
+      "path": "audit/补充材料.pdf.log",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "audit/论文_图文整合.md.pdf-source.md",
+      "bytes": 61163,
+      "sha256": "852c3e7530b9cf15ebb6c3396650a0f4fd1016358317c5d70370114c639f404a"
+    },
+    {
+      "path": "components/00_frontmatter.md",
+      "bytes": 1614,
+      "sha256": "01eed62f94b612cf8962fa9a03513526e627cff28bc87a3383ec186d13c9fa01"
+    },
+    {
+      "path": "components/01_introduction.md",
+      "bytes": 13484,
+      "sha256": "8f8b4588c2c5d34b9222748aa33ff9bb1df3c49a6f529d3ec8ba62df00c032cb"
+    },
+    {
+      "path": "components/02_methods.md",
+      "bytes": 7278,
+      "sha256": "6bed53dd3224c2ae3af66796f6a132a83a32b457e047d10c0a6742f846123282"
+    },
+    {
+      "path": "components/03_05_results.md",
+      "bytes": 25478,
+      "sha256": "21779d2bfe918d36a2230c5ee8f24ba7b85c0a9bf1148727812b50009714b40b"
+    },
+    {
+      "path": "components/06_conclusions.md",
+      "bytes": 3987,
+      "sha256": "670e649bf81abd30cd0422112e127728715ed0d28fec8eda862174cee0de9670"
+    },
+    {
+      "path": "components/intro_evidence.md",
+      "bytes": 4316,
+      "sha256": "853a83cfc4edb3c709e251b63f61d229990bd10fa976d03774a38cdb810b566e"
+    },
+    {
+      "path": "components/methods_status.md",
+      "bytes": 2515,
+      "sha256": "ab1cb8c10810172087214b197665e1ab4945364dac1f329768e97d5777a00d9e"
+    },
+    {
+      "path": "data/analysis_statistics.json",
+      "bytes": 525522,
+      "sha256": "9b7f3ac272c5ef30414779417fd8695e5ad5ef0141e238c638c72faf687564cf"
+    },
+    {
+      "path": "data/baseline_revision.json",
+      "bytes": 209,
+      "sha256": "4595600dbf8bd1c0e16ea40310dbf9fc42fdd3fb618be3ffb40a53bcdbb6f109"
+    },
+    {
+      "path": "data/citation_map.json",
+      "bytes": 27411,
+      "sha256": "33a18e826f3db746cac5a91dd59d2e2bac94687602e6ef970cd4ab4fbafea329"
+    },
+    {
+      "path": "data/complexes.csv",
+      "bytes": 101767,
+      "sha256": "c87a9fc9a62e2b2afcec0a11c3a41a4a2d377b24aa1fd6f761cc7ca027b2d60d"
+    },
+    {
+      "path": "data/complexes.json",
+      "bytes": 206883,
+      "sha256": "5036b6df518b980c1b9634b8c151c38812c052934c224918a460c97c7947923d"
+    },
+    {
+      "path": "data/deliverable_counts.json",
+      "bytes": 321,
+      "sha256": "9aae9b2f4a0d128eee112cb43c7925a6ffe94365da7e7a4f1379c114a5d05163"
+    },
+    {
+      "path": "data/figure_F1_energy_competition.csv",
+      "bytes": 11919,
+      "sha256": "251d0b7332aa674cbdac2b8359bd5497ac333d0246446565d8e71be8546024cc"
+    },
+    {
+      "path": "data/figure_F2_internal_bond_response.csv",
+      "bytes": 18075,
+      "sha256": "3af2489b31aa41b96816c989f38a5471eb569c7a4681d31a1a6644aadb725e00"
+    },
+    {
+      "path": "data/figure_F3_EDA_components.csv",
+      "bytes": 3388,
+      "sha256": "45c0163522fb14e74668889c350c0a23e2599d09bc2e57039ecf452a14265011"
+    },
+    {
+      "path": "data/figure_F4_geometry_screening.csv",
+      "bytes": 12173,
+      "sha256": "2cce5d2de917c130e795fd2167f0d2628b152a4952af70cbd7abefb1543318c6"
+    },
+    {
+      "path": "data/figure_S1_energy_audit.csv",
+      "bytes": 16818,
+      "sha256": "845cc0ecd5637fc3b382e1c313c786a7709054aa46301ac037afe98cecb0c33a"
+    },
+    {
+      "path": "data/figure_S2_MEP_exploratory.csv",
+      "bytes": 10317,
+      "sha256": "9ae3045ecdf0b74f00c45d85486be4176917d9e25be1b69fdbf0fce23ef7b202"
+    },
+    {
+      "path": "data/figure_captions.json",
+      "bytes": 3423,
+      "sha256": "cff44d3ef9151aba81cbe540f03f6e55a4ea500e4edf150af926958bd15352ae"
+    },
+    {
+      "path": "data/figure_plan.csv",
+      "bytes": 7733,
+      "sha256": "f5fc29a4de7649b8ee258382482dbf0a800c447cac68bd6d83cb09f6f4abe7c8"
+    },
+    {
+      "path": "data/figure_plan.json",
+      "bytes": 11526,
+      "sha256": "26e40cc0051d23e3bfa0b904011a766b29b5e8827ff4b1a2fbb6881cc16c6cff"
+    },
+    {
+      "path": "data/identities.csv",
+      "bytes": 5304,
+      "sha256": "6d001dbcb5dba1327255000d448a69c8486f19df680bb6593bab8ebd9f986338"
+    },
+    {
+      "path": "data/identities.json",
+      "bytes": 10784,
+      "sha256": "4c8e36f9a254dcf7b0dcf1a67f8bf62c69b038b0b98b453092d393ab46080f43"
+    },
+    {
+      "path": "data/implemented_figure_index.csv",
+      "bytes": 2135,
+      "sha256": "2169d51ec1b19a33cea8cf30fce1e09f038162d7d646bf35a7fdd1d0f63d896e"
+    },
+    {
+      "path": "data/implemented_figure_index.json",
+      "bytes": 3580,
+      "sha256": "3cd74314757682fd0e34b27668f06ebb7dc31f62978c0fdb4d6c992d3831bf98"
+    },
+    {
+      "path": "data/manuscript_counts.json",
+      "bytes": 366,
+      "sha256": "ffbd7946a0422be5e25dd5f584718a82177cc99a3df5b2a7db7cd4404b9f91df"
+    },
+    {
+      "path": "data/metric_dictionary.csv",
+      "bytes": 3136,
+      "sha256": "a6b3160efdc7b91d4f8a0bedd311f112d20a737c0a6df08215b878a3417082c3"
+    },
+    {
+      "path": "data/metric_dictionary.json",
+      "bytes": 6069,
+      "sha256": "d9c899c10cf39dc93e8c071acd25c19295f390d41c20ce7ac1e2e136a16f4db7"
+    },
+    {
+      "path": "data/original_inventory.json",
+      "bytes": 7160,
+      "sha256": "0175809a8d89460b83b553ef3d8f538bd44c1e52c8290919369ea09b95570076"
+    },
+    {
+      "path": "data/pairs.csv",
+      "bytes": 9160,
+      "sha256": "7bb2d228e5a7eeb8365571ce58df1c6e38947c5983f301d4075acb5f245119de"
+    },
+    {
+      "path": "data/pairs.json",
+      "bytes": 19147,
+      "sha256": "e1ce329c8ec9816ff5c7567608852362cafe78c7d3db4514fde2b97e3a75f4f7"
+    },
+    {
+      "path": "data/provenance.csv",
+      "bytes": 186143,
+      "sha256": "1c5bb9c647c623159d1fb7b829fdc768075bc2b3a7c1ccdbb8c2b83aed030f5f"
+    },
+    {
+      "path": "data/provenance.json",
+      "bytes": 449190,
+      "sha256": "8bac1b4ebc9c8ebfd76402e6f8d996e84bec4e9bbd6990b3868423bfb5ab45ea"
+    },
+    {
+      "path": "data/references.csv",
+      "bytes": 5018,
+      "sha256": "e34e026048115bef21591d82aa5dc36704e2224db3b5997bf32c373af63da405"
+    },
+    {
+      "path": "data/references.json",
+      "bytes": 7583,
+      "sha256": "a6350829e6bfc55d95805aa3b409b3e4ec65c6ecbb0266ce8ad620e43f3bdb8c"
+    },
+    {
+      "path": "data/requirements_source.md",
+      "bytes": 2346,
+      "sha256": "d6fe0e18ad31c50f0204fa98bf7aafdc3f6c9560d27e44eb6ec15cd22a6717a0"
+    },
+    {
+      "path": "data/result_tables.json",
+      "bytes": 6184,
+      "sha256": "dba5d4a9d956b0681432c1d3c430cba76be05d82cdbe2ad65d6ceeef34f92090"
+    },
+    {
+      "path": "data/revision_changes.json",
+      "bytes": 13846,
+      "sha256": "abf6d9859ed8360406f9c36b000b373552ac4696b7a805021beaa00bb4195eb3"
+    },
+    {
+      "path": "data/source_hashes.json",
+      "bytes": 514,
+      "sha256": "a351557902195208056107c366556317efb71cb8ffbdd8e20176244be0df220f"
+    },
+    {
+      "path": "data/source_ledger_summary.md",
+      "bytes": 2046,
+      "sha256": "e48c4d1a2efd222137a67e117cb41d27e335459b2ffdfeb636ddd9c970ff916a"
+    },
+    {
+      "path": "data/validation_report.json",
+      "bytes": 796,
+      "sha256": "11e3b10c3c79103078ad43fc1cca265fd47c063eb1522748a9dc64faa9fd504d"
+    },
+    {
+      "path": "data/数据来源索引.csv",
+      "bytes": 355030,
+      "sha256": "f98465d14fec2de0628ae5efb450e68beaa703f7e6ed89d71fe4fd271a174853"
+    },
+    {
+      "path": "data/数据来源索引.json",
+      "bytes": 695145,
+      "sha256": "6f2018a23ad025c335e962dbaf97f043826a009875aa18e7c483ec12753e0496"
+    },
+    {
+      "path": "figures/F1_energy_competition.pdf",
+      "bytes": 47922,
+      "sha256": "6f58763600712c30adb1f53ed76f7e46bce95ac3d30e6e05474b70f9153e24bd"
+    },
+    {
+      "path": "figures/F1_energy_competition.png",
+      "bytes": 520375,
+      "sha256": "90ad951f5e36563a4197b873e8d94c618e6fe93319ebe514a307dfef0c93e967"
+    },
+    {
+      "path": "figures/F1_energy_competition.svg",
+      "bytes": 112898,
+      "sha256": "cbaa65b4bbcd660279b7867511f6ff49b77dd9ba4541f4e990012c2dd5143661"
+    },
+    {
+      "path": "figures/F2_bond_response.pdf",
+      "bytes": 47049,
+      "sha256": "8285616ffeb58a7b285e9f9b1150900e755dde79760864b3777d03dd869d27aa"
+    },
+    {
+      "path": "figures/F2_bond_response.png",
+      "bytes": 521803,
+      "sha256": "d5ea38599d02a8ea1996a9a66611c9250ed4c652a106cfc5667bc65c2ef2445d"
+    },
+    {
+      "path": "figures/F2_bond_response.svg",
+      "bytes": 90733,
+      "sha256": "99a5c2538998f2c675143c5447df3fb0ca4dca92f9d11099f905fecd9d131dc4"
+    },
+    {
+      "path": "figures/F3_eda_components.pdf",
+      "bytes": 29329,
+      "sha256": "5fff7a763d2ad4ede9b343b8b8367627d898e6282ad858edfcfa6996b30e5c76"
+    },
+    {
+      "path": "figures/F3_eda_components.png",
+      "bytes": 485020,
+      "sha256": "6fa5fd4d85157df7d8122f25b432ce3f0f18253957d22f63c8c105717e3467e0"
+    },
+    {
+      "path": "figures/F3_eda_components.svg",
+      "bytes": 74979,
+      "sha256": "26e7b1b550f06f0d3f5e6f563bf812117a43f28217e47255321852cde887a761"
+    },
+    {
+      "path": "figures/F4_geometry_candidates.pdf",
+      "bytes": 34170,
+      "sha256": "c26502e5c4dd5b4c682f90d720bcb7268ab117d23b795f66a283ecbab75bd747"
+    },
+    {
+      "path": "figures/F4_geometry_candidates.png",
+      "bytes": 387022,
+      "sha256": "322701498c4d885a12b14806f21abed3248ef89484932210283922617581d2f3"
+    },
+    {
+      "path": "figures/F4_geometry_candidates.svg",
+      "bytes": 43535,
+      "sha256": "507f623d3cd55cfeeb5f2ff55d3760ae5539c490d2d5edf212d8929747bd8f22"
+    },
+    {
+      "path": "figures/S1_energy_audit.pdf",
+      "bytes": 47211,
+      "sha256": "55c92d3f4d5e7efa4daf8c652d551769f81fc32a5a19323d8cbd382a48753b2e"
+    },
+    {
+      "path": "figures/S1_energy_audit.png",
+      "bytes": 517837,
+      "sha256": "b284cc2dacd85a0e259f959e401c32ee2a2460b50f6b538c0e61b66e4ecba38e"
+    },
+    {
+      "path": "figures/S1_energy_audit.svg",
+      "bytes": 84429,
+      "sha256": "8a14dad5c088a0b8813808fbda0ccecb8af2b6fbb5affbb0fa77bb6171d98b6b"
+    },
+    {
+      "path": "figures/S2_mep_competition.pdf",
+      "bytes": 37556,
+      "sha256": "824cf55ba4d86bed2a80480ae8f78fc168af1c969fcb1dda2873a6764c684ac8"
+    },
+    {
+      "path": "figures/S2_mep_competition.png",
+      "bytes": 381969,
+      "sha256": "99dc84805c3dd647f412e174b78cf5d2a00666075a5648ee34a5f125bb1752c4"
+    },
+    {
+      "path": "figures/S2_mep_competition.svg",
+      "bytes": 58064,
+      "sha256": "c24626ca29f2624e3f9f163fe271c67416084819834168bb1c8423fb0915f808"
+    },
+    {
+      "path": "figures/figure_manifest.json",
+      "bytes": 882,
+      "sha256": "5a51eb2bbafaf0eba86cfd931a0e71f27e3736bcbd4d20efcbd1442ed1b8c67e"
+    },
+    {
+      "path": "scripts/apply_stage6_revision.py",
+      "bytes": 12949,
+      "sha256": "be772d3d56d6608a7862c2a669f11a0dbce4faca900ce9ea8bc49d4e47c41d4d"
+    },
+    {
+      "path": "scripts/assemble_final.py",
+      "bytes": 8502,
+      "sha256": "ad80d56a5f67a56f7e7b7029296b0a2c96bf4f159c5041e58175db6fc18e15c6"
+    },
+    {
+      "path": "scripts/enrich_data.py",
+      "bytes": 2892,
+      "sha256": "e6349304cd772d852010d7bf38051345a6d0710b0cda3913135a7fd55e31db4c"
+    },
+    {
+      "path": "scripts/pdf_header.tex",
+      "bytes": 229,
+      "sha256": "c33d4d9433d30682a9c308a735396244bdd60208434a152a7e02d1c75a84207d"
+    },
+    {
+      "path": "scripts/plot_figures.py",
+      "bytes": 25447,
+      "sha256": "9497013051ffaff8469e2c4680c7904e6614886f6a595cb50b5d1e9b2b769bcf"
+    },
+    {
+      "path": "scripts/render_final.py",
+      "bytes": 5683,
+      "sha256": "f1c8870437cad3dc1be7ebee95a6d9ec55f012565729192a3c0859a7671e2bbf"
+    },
+    {
+      "path": "scripts/requirements.txt",
+      "bytes": 98,
+      "sha256": "bccb76e0f0166e300b996db614e436989404aef54ad209a3620c79046366c2fb"
+    },
+    {
+      "path": "scripts/update_revision_index.py",
+      "bytes": 6336,
+      "sha256": "62612a9a0d6d816d80e1aa99203908d452ea62dd85676a9e74b308bc30342f26"
+    },
+    {
+      "path": "scripts/validate_final.py",
+      "bytes": 8069,
+      "sha256": "796736390587f6b35df87ec49dede816897351ad6cfb8984ca563f60effe79c0"
+    },
+    {
+      "path": "作者确认表.docx",
+      "bytes": 39627,
+      "sha256": "00bab30177f451ebe52379207b3dc69b4121d92b4a98595c526fbb4948998f0d"
+    },
+    {
+      "path": "作者确认表.md",
+      "bytes": 3067,
+      "sha256": "a2ee5048b13761c66a7d80d4ea569c7aa0888270b6c19048e870f81f6003f2df"
+    },
+    {
+      "path": "原始资料清单.csv",
+      "bytes": 5266,
+      "sha256": "436accee9d5727bca8b5b680c75e76ffa22ea27a127c116c18573011e95cdefa"
+    },
+    {
+      "path": "参考文献.csv",
+      "bytes": 5297,
+      "sha256": "2b1bfdd77c978dff357f9f26157d32aace422f8bf3f9164edf4ebb37c5acc354"
+    },
+    {
+      "path": "参考文献.docx",
+      "bytes": 38561,
+      "sha256": "0bdec6fe18ecca7cfb95b0455275384f669e9e66d98a1e99b755dad8eeb9f909"
+    },
+    {
+      "path": "参考文献.md",
+      "bytes": 2462,
+      "sha256": "7f76ea5b820049a6915625187635dd48f28783494abde15566b06e48d566390b"
+    },
+    {
+      "path": "图注.md",
+      "bytes": 3183,
+      "sha256": "9970a32e64291fa82ff9665cba0c0e1768869b225b3421d2a29f3e596a1ada4a"
+    },
+    {
+      "path": "大纲对应关系.md",
+      "bytes": 908,
+      "sha256": "315e8ceeb930d7c8baf0c2c9f47612271a81dfa03a2ea86ff618aa559f11508e"
+    },
+    {
+      "path": "完整论文修订稿.docx",
+      "bytes": 1704138,
+      "sha256": "c4c46b5e1821fb06bb62b20ebca14c29258a74f98d38c120c8ac673e5140f450"
+    },
+    {
+      "path": "完整论文修订稿.pdf",
+      "bytes": 2039880,
+      "sha256": "0a3d8668dc7a23edd3e649ff6486761cb616a0380e33ae9ba9625f08b107446b"
+    },
+    {
+      "path": "待核实事项.md",
+      "bytes": 2603,
+      "sha256": "7d8a68b88687aa156a96e17b20130d98449c9fb04b79e6681093065174717bc0"
+    },
+    {
+      "path": "数据总表.xlsx",
+      "bytes": 321366,
+      "sha256": "4498b778df22c196d6a414c036fa46a760553d374fa642ade0ce151971a9f2c8"
+    },
+    {
+      "path": "本轮修订说明.docx",
+      "bytes": 44116,
+      "sha256": "ff8310bf2c8bcf37d043e6b103dce0acd0c988024d6d165a32bd82898c78f622"
+    },
+    {
+      "path": "本轮修订说明.md",
+      "bytes": 13640,
+      "sha256": "8092c5d99cb30d8599410dac30e1097876f2949122c0dc4587d0090a5d61e284"
+    },
+    {
+      "path": "补充材料.docx",
+      "bytes": 820162,
+      "sha256": "9192b03e96c70e02a81931395c5b832707b7309e2fbb2411ee423ec4f7628456"
+    },
+    {
+      "path": "补充材料.md",
+      "bytes": 6598,
+      "sha256": "fbc62cab7e6c8440418d404aa56c53f49b6f0ae2fc2ca59745c3f9aae2ccf351"
+    },
+    {
+      "path": "补充材料.pdf",
+      "bytes": 936303,
+      "sha256": "3790e43e4597c765d357265267cca68fbfe45b2cf3e9ff007fa35eb414bc24e3"
+    },
+    {
+      "path": "论文_图文整合.md",
+      "bytes": 60703,
+      "sha256": "1ddc191e3248473c39c0600d39529fc9c3b46188af6bc5413b3ba7a9f384f883"
+    },
+    {
+      "path": "论文_正文.md",
+      "bytes": 54242,
+      "sha256": "cf530c2c39de55a9ff769172eafdda514ae17de3c527be95fbeff30d257e8303"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "body_cjk_characters": 13822,
+  "body_all_characters": 21080,
+  "main_with_figures_tables_cjk_characters": 14476,
+  "references": 11,
+  "main_figures": 4,
+  "supplementary_figures": 2,
+  "native_result_tables": 3,
+  "reference_order": [
+    "R02",
+    "R04",
+    "R06",
+    "R01",
+    "R10",
+    "R09",
+    "R11",
+    "R08",
+    "R03",
+    "R05",
+    "R07"
+  ]
+}

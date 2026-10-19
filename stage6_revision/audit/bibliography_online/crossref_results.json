@@ -1,0 +1,79 @@
+[
+  {
+    "id": "R01",
+    "doi": "10.1039/d6sc02210c",
+    "source_url": "https://api.crossref.org/works/10.1039/d6sc02210c",
+    "retrieved_at_utc": "2026-10-19T10:18:14.443163+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "R02",
+    "doi": "10.1021/jp806101t",
+    "source_url": "https://api.crossref.org/works/10.1021/jp806101t",
+    "retrieved_at_utc": "2026-10-19T10:18:14.443849+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "R03",
+    "doi": "10.1007/s00894-013-1969-7",
+    "source_url": "https://api.crossref.org/works/10.1007/s00894-013-1969-7",
+    "retrieved_at_utc": "2026-10-19T10:18:14.444287+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "R04",
+    "doi": "10.1016/j.saa.2014.05.001",
+    "source_url": "https://api.crossref.org/works/10.1016/j.saa.2014.05.001",
+    "retrieved_at_utc": "2026-10-19T10:18:14.444724+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "R05",
+    "doi": "10.1039/d4cp03894k",
+    "source_url": "https://api.crossref.org/works/10.1039/d4cp03894k",
+    "retrieved_at_utc": "2026-10-19T10:18:14.445117+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "R06",
+    "doi": "10.1002/asia.202301106",
+    "source_url": "https://api.crossref.org/works/10.1002/asia.202301106",
+    "retrieved_at_utc": "2026-10-19T10:18:14.445469+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "R07",
+    "doi": "10.1021/jacs.3c11449",
+    "source_url": "https://api.crossref.org/works/10.1021/jacs.3c11449",
+    "retrieved_at_utc": "2026-10-19T10:18:14.462153+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "R08",
+    "doi": "10.3390/molecules26071885",
+    "source_url": "https://api.crossref.org/works/10.3390/molecules26071885",
+    "retrieved_at_utc": "2026-10-19T10:18:14.463397+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "R09",
+    "doi": "10.1039/c6ce02089e",
+    "source_url": "https://api.crossref.org/works/10.1039/c6ce02089e",
+    "retrieved_at_utc": "2026-10-19T10:18:14.466552+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "R10",
+    "doi": "10.1021/cg500094b",
+    "source_url": "https://api.crossref.org/works/10.1021/cg500094b",
+    "retrieved_at_utc": "2026-10-19T10:18:14.468078+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "R11",
+    "doi": "10.1002/cplu.202100102",
+    "source_url": "https://api.crossref.org/works/10.1002/cplu.202100102",
+    "retrieved_at_utc": "2026-10-19T10:18:14.469678+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

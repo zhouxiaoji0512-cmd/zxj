@@ -1,0 +1,8 @@
+{
+  "label": "R04_crossref_http",
+  "source_url": "http://api.crossref.org/works/10.1016/j.saa.2014.05.001",
+  "accept": "application/json",
+  "retrieved_at_utc": "2026-10-19T10:18:32.602294+00:00",
+  "status_code": 403,
+  "error": "HTTP Error 403: Forbidden"
+}

@@ -1,0 +1,217 @@
+[
+  {
+    "metric": "MEP_B",
+    "source_sheet": "MEP",
+    "unit_status": "表头kcal/mol；表面定义待核实"
+  },
+  {
+    "metric": "MEP_C",
+    "source_sheet": "MEP",
+    "unit_status": "表头未给单位；与B同口径待核实"
+  },
+  {
+    "metric": "Eint_bess",
+    "source_sheet": "bess",
+    "unit_status": "kcal/mol；参考态/校正待核实"
+  },
+  {
+    "metric": "Eb_bess",
+    "source_sheet": "bess",
+    "unit_status": "kcal/mol；参考态/校正待核实"
+  },
+  {
+    "metric": "r_CH",
+    "source_sheet": "结构数据",
+    "unit_status": "原表未标距离单位；数值保留，待原始几何输出确认"
+  },
+  {
+    "metric": "r_CCl",
+    "source_sheet": "结构数据",
+    "unit_status": "原表未标距离单位；数值保留，待原始几何输出确认"
+  },
+  {
+    "metric": "r_OH",
+    "source_sheet": "结构数据",
+    "unit_status": "原表未标距离单位；数值保留，待原始几何输出确认"
+  },
+  {
+    "metric": "r_OCl",
+    "source_sheet": "结构数据",
+    "unit_status": "原表未标距离单位；数值保留，待原始几何输出确认"
+  },
+  {
+    "metric": "dr_OH_cached",
+    "source_sheet": "结构数据",
+    "unit_status": "原表未标距离单位；数值保留，待原始几何输出确认"
+  },
+  {
+    "metric": "dr_OCl_cached",
+    "source_sheet": "结构数据",
+    "unit_status": "原表未标距离单位；数值保留，待原始几何输出确认"
+  },
+  {
+    "metric": "angle",
+    "source_sheet": "结构数据",
+    "unit_status": "原表角度字段，单位及原子顺序待核实"
+  },
+  {
+    "metric": "rho_contact",
+    "source_sheet": "AIM",
+    "unit_status": "单位/BCP原子对待核实"
+  },
+  {
+    "metric": "H_contact",
+    "source_sheet": "AIM",
+    "unit_status": "单位/BCP原子对待核实"
+  },
+  {
+    "metric": "lap_contact",
+    "source_sheet": "AIM",
+    "unit_status": "单位/BCP原子对待核实"
+  },
+  {
+    "metric": "CT",
+    "source_sheet": "NBO",
+    "unit_status": "未标单位、符号、分片及电荷方案"
+  },
+  {
+    "metric": "NOCV_energy",
+    "source_sheet": "NOCV",
+    "unit_status": "Energy；单位/总轨道能或单通道身份待核实"
+  },
+  {
+    "metric": "ES",
+    "source_sheet": "EDA",
+    "unit_status": "B表头kcal/mol；其余同单位待核实；方法定义待核实"
+  },
+  {
+    "metric": "EX",
+    "source_sheet": "EDA",
+    "unit_status": "B表头kcal/mol；其余同单位待核实；方法定义待核实"
+  },
+  {
+    "metric": "REP",
+    "source_sheet": "EDA",
+    "unit_status": "B表头kcal/mol；其余同单位待核实；方法定义待核实"
+  },
+  {
+    "metric": "POL",
+    "source_sheet": "EDA",
+    "unit_status": "B表头kcal/mol；其余同单位待核实；方法定义待核实"
+  },
+  {
+    "metric": "ECORR",
+    "source_sheet": "EDA",
+    "unit_status": "B表头kcal/mol；其余同单位待核实；方法定义待核实"
+  },
+  {
+    "metric": "EDA_E",
+    "source_sheet": "EDA",
+    "unit_status": "B表头kcal/mol；其余同单位待核实；方法定义待核实"
+  },
+  {
+    "metric": "log_name",
+    "source_sheet": "NBO主表",
+    "unit_status": "作业或日志名称，文本标识，无能量单位"
+  },
+  {
+    "metric": "donor",
+    "source_sheet": "NBO主表",
+    "unit_status": "供体轨道标签，文本归属，无能量单位"
+  },
+  {
+    "metric": "acceptor",
+    "source_sheet": "NBO主表",
+    "unit_status": "受体轨道标签，文本归属，无能量单位"
+  },
+  {
+    "metric": "E2max",
+    "source_sheet": "NBO主表",
+    "unit_status": "kcal/mol"
+  },
+  {
+    "metric": "E2sum_target",
+    "source_sheet": "NBO主表",
+    "unit_status": "目标通道能量求和字段，单位和筛选规则待核实"
+  },
+  {
+    "metric": "target_channel_count",
+    "source_sheet": "NBO主表",
+    "unit_status": "目标通道计数，整数，无量纲；筛选规则待核实"
+  },
+  {
+    "metric": "cross_fragment_count",
+    "source_sheet": "NBO主表",
+    "unit_status": "跨片段通道计数，整数，无量纲；片段及筛选规则待核实"
+  },
+  {
+    "metric": "all_count",
+    "source_sheet": "NBO主表",
+    "unit_status": "汇总通道计数，整数，无量纲；统计范围待核实"
+  },
+  {
+    "metric": "min_frequency",
+    "source_sheet": "NBO主表",
+    "unit_status": "cm^-1"
+  },
+  {
+    "metric": "imaginary_count",
+    "source_sheet": "NBO主表",
+    "unit_status": "虚频个数，整数计数，无量纲；原始频率输出仍待核实"
+  },
+  {
+    "metric": "log_line",
+    "source_sheet": "NBO主表",
+    "unit_status": "日志来源行号，位置索引，无物理单位"
+  },
+  {
+    "metric": "original_NBO_check_status",
+    "source_sheet": "NBO主表",
+    "unit_status": "原始NBO核查状态，文本标识，无物理单位"
+  },
+  {
+    "metric": "WBI_CH",
+    "source_sheet": "结构数据",
+    "unit_status": "WBI无量纲；仅有H-CO填写"
+  },
+  {
+    "metric": "WBI_CCl",
+    "source_sheet": "结构数据",
+    "unit_status": "WBI无量纲；仅有H-CO填写"
+  },
+  {
+    "metric": "WBI_OH",
+    "source_sheet": "结构数据",
+    "unit_status": "WBI无量纲；仅有H-CO填写"
+  },
+  {
+    "metric": "WBI_OCl",
+    "source_sheet": "结构数据",
+    "unit_status": "WBI无量纲；仅有H-CO填写"
+  },
+  {
+    "metric": "Eb_minus_Eint",
+    "source_sheet": "bess",
+    "unit_status": "kcal/mol；Eb-Eint数值差；尚未确认为形变能"
+  },
+  {
+    "metric": "EDA_sum5",
+    "source_sheet": "EDA",
+    "unit_status": "ES+EX+REP+POL+ECORR；不省略交换项"
+  },
+  {
+    "metric": "EDA_sum_residual",
+    "source_sheet": "EDA",
+    "unit_status": "EDA_E-EDA_sum5；五分项与总量均保留2位小数时最大舍入残差0.03"
+  },
+  {
+    "metric": "delta_Eb_H_minus_Cl",
+    "source_sheet": "bess",
+    "unit_status": "kcal/mol；H端Eb减Cl端Eb；小于0表示表内H端值更低"
+  },
+  {
+    "metric": "delta_Eint_H_minus_Cl",
+    "source_sheet": "bess",
+    "unit_status": "kcal/mol；H端Eint减Cl端Eint；小于0表示表内H端值更低"
+  }
+]

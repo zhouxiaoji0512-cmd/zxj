@@ -1,0 +1,44 @@
+[
+  {
+    "figure": "F1_energy_competition",
+    "width_inches": 15.0,
+    "height_inches": 11.6,
+    "png_dpi": 300,
+    "formats": "PNG/SVG/PDF"
+  },
+  {
+    "figure": "F2_bond_response",
+    "width_inches": 15.0,
+    "height_inches": 11.6,
+    "png_dpi": 300,
+    "formats": "PNG/SVG/PDF"
+  },
+  {
+    "figure": "F3_eda_components",
+    "width_inches": 15.0,
+    "height_inches": 9.3,
+    "png_dpi": 300,
+    "formats": "PNG/SVG/PDF"
+  },
+  {
+    "figure": "F4_geometry_candidates",
+    "width_inches": 13.0,
+    "height_inches": 7.6,
+    "png_dpi": 300,
+    "formats": "PNG/SVG/PDF"
+  },
+  {
+    "figure": "S1_energy_audit",
+    "width_inches": 13.0,
+    "height_inches": 11.6,
+    "png_dpi": 300,
+    "formats": "PNG/SVG/PDF"
+  },
+  {
+    "figure": "S2_mep_competition",
+    "width_inches": 13.0,
+    "height_inches": 7.6,
+    "png_dpi": 300,
+    "formats": "PNG/SVG/PDF"
+  }
+]

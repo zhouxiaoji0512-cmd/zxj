@@ -1,0 +1,37 @@
+[
+  {
+    "file": "完整论文修订稿.docx",
+    "paragraphs": 159,
+    "tables": 3,
+    "figures": 4,
+    "superscript_citations": 35
+  },
+  {
+    "file": "补充材料.docx",
+    "paragraphs": 18,
+    "tables": 2,
+    "figures": 2,
+    "superscript_citations": 0
+  },
+  {
+    "file": "参考文献.docx",
+    "paragraphs": 12,
+    "tables": 0,
+    "figures": 0,
+    "superscript_citations": 0
+  },
+  {
+    "file": "作者确认表.docx",
+    "paragraphs": 4,
+    "tables": 1,
+    "figures": 0,
+    "superscript_citations": 0
+  },
+  {
+    "file": "本轮修订说明.docx",
+    "paragraphs": 12,
+    "tables": 1,
+    "figures": 0,
+    "superscript_citations": 0
+  }
+]

@@ -1,0 +1,420 @@
+{
+  "schema_version": 1,
+  "retrieval_date_client_Asia_Shanghai": "2026-10-19",
+  "scope": "DOI/出版社/Crossref官方书目元数据在线补核；并未在线阅读全文。",
+  "overall_result": "blocked",
+  "source_baseline_file": "/workspace/zxj/final_paper/audit/references.json",
+  "source_baseline_sha256": "e662daef04edd302398be4431aea97960a1c900bbf944b04581ff762b56eda06",
+  "newly_verified_count": 0,
+  "references": [
+    {
+      "id": "R01",
+      "doi": "10.1039/d6sc02210c",
+      "online_verified": false,
+      "online_verification_status": "blocked_at_proxy_no_metadata_received",
+      "verified_metadata_additions": {},
+      "local_uploaded_source_baseline": {
+        "source_file": "d6sc02210c.pdf",
+        "authors": [
+          "Shunhua Li",
+          "Hangyu Zhou",
+          "Qingzhong Li",
+          "Steve Scheiner"
+        ],
+        "title": "Strong interactions between carbones and halogen atomic centers",
+        "year": 2026,
+        "journal": "Chemical Science",
+        "volume": "17",
+        "pages": "14950–14962",
+        "article_number": null,
+        "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+      },
+      "attempts": [
+        {
+          "id": "R01",
+          "doi": "10.1039/d6sc02210c",
+          "source_url": "https://api.crossref.org/works/10.1039/d6sc02210c",
+          "retrieved_at_utc": "2026-10-19T10:18:14.443163+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R01_retrieval.json"
+        }
+      ]
+    },
+    {
+      "id": "R02",
+      "doi": "10.1021/jp806101t",
+      "online_verified": false,
+      "online_verification_status": "blocked_at_proxy_no_metadata_received",
+      "verified_metadata_additions": {},
+      "local_uploaded_source_baseline": {
+        "source_file": "jp806101t.pdf",
+        "authors": [
+          "Ibon Alkorta",
+          "Fernando Blanco",
+          "Mohammad Solimannejad",
+          "José Elguero"
+        ],
+        "title": "Competition of Hydrogen Bonds and Halogen Bonds in Complexes of Hypohalous Acids with Nitrogenated Bases",
+        "year": 2008,
+        "journal": "The Journal of Physical Chemistry A",
+        "volume": "112",
+        "pages": "10856–10863",
+        "article_number": null,
+        "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+      },
+      "attempts": [
+        {
+          "id": "R02",
+          "doi": "10.1021/jp806101t",
+          "source_url": "https://api.crossref.org/works/10.1021/jp806101t",
+          "retrieved_at_utc": "2026-10-19T10:18:14.443849+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R02_retrieval.json"
+        }
+      ]
+    },
+    {
+      "id": "R03",
+      "doi": "10.1007/s00894-013-1969-7",
+      "online_verified": false,
+      "online_verification_status": "blocked_at_proxy_no_metadata_received",
+      "verified_metadata_additions": {},
+      "local_uploaded_source_baseline": {
+        "source_file": "s00894-013-1969-7.pdf",
+        "authors": [
+          "Xiulin An",
+          "Hongying Zhuo",
+          "Yingying Wang",
+          "Qingzhong Li"
+        ],
+        "title": "Competition between hydrogen bonds and halogen bonds in complexes of formamidine and hypohalous acids",
+        "year": 2013,
+        "journal": "Journal of Molecular Modeling",
+        "volume": "19",
+        "pages": "4529–4535",
+        "article_number": null,
+        "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+      },
+      "attempts": [
+        {
+          "id": "R03",
+          "doi": "10.1007/s00894-013-1969-7",
+          "source_url": "https://api.crossref.org/works/10.1007/s00894-013-1969-7",
+          "retrieved_at_utc": "2026-10-19T10:18:14.444287+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R03_retrieval.json"
+        }
+      ]
+    },
+    {
+      "id": "R04",
+      "doi": "10.1016/j.saa.2014.05.001",
+      "online_verified": false,
+      "online_verification_status": "blocked_at_proxy_no_metadata_received",
+      "verified_metadata_additions": {},
+      "local_uploaded_source_baseline": {
+        "source_file": "j.saa.2014.05.001.pdf",
+        "authors": [
+          "Qingzhong Li",
+          "Hongjie Zhu",
+          "Hongying Zhuo",
+          "Xin Yang",
+          "Wenzuo Li",
+          "Jianbo Cheng"
+        ],
+        "title": "Complexes between hypohalous acids and phosphine derivatives. Pnicogen bond versus halogen bond versus hydrogen bond",
+        "year": 2014,
+        "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+        "volume": null,
+        "pages": null,
+        "article_number": null,
+        "bibliographic_status": "DOI可定位的接收稿；最终卷页待核实"
+      },
+      "attempts": [
+        {
+          "label": "R04_crossref_http",
+          "source_url": "http://api.crossref.org/works/10.1016/j.saa.2014.05.001",
+          "accept": "application/json",
+          "retrieved_at_utc": "2026-10-19T10:18:32.602294+00:00",
+          "status_code": 403,
+          "error": "HTTP Error 403: Forbidden",
+          "retrieval_record_file": "/tmp/stage6_bib/R04_crossref_http_retrieval.json"
+        },
+        {
+          "label": "R04_doi",
+          "source_url": "https://doi.org/10.1016/j.saa.2014.05.001",
+          "accept": "text/html",
+          "retrieved_at_utc": "2026-10-19T10:18:32.600258+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R04_doi_retrieval.json"
+        },
+        {
+          "label": "R04_elsevier",
+          "source_url": "https://linkinghub.elsevier.com/retrieve/doi/10.1016/j.saa.2014.05.001",
+          "accept": "text/html",
+          "retrieved_at_utc": "2026-10-19T10:18:32.601329+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R04_elsevier_retrieval.json"
+        },
+        {
+          "id": "R04",
+          "doi": "10.1016/j.saa.2014.05.001",
+          "source_url": "https://api.crossref.org/works/10.1016/j.saa.2014.05.001",
+          "retrieved_at_utc": "2026-10-19T10:18:14.444724+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R04_retrieval.json"
+        }
+      ]
+    },
+    {
+      "id": "R05",
+      "doi": "10.1039/d4cp03894k",
+      "online_verified": false,
+      "online_verification_status": "blocked_at_proxy_no_metadata_received",
+      "verified_metadata_additions": {},
+      "local_uploaded_source_baseline": {
+        "source_file": "d4cp03894k.pdf",
+        "authors": [
+          "Ibon Alkorta",
+          "Anthony Legon"
+        ],
+        "title": "Simple carbenes as hydrogen bond acceptors: ab initio determination of nucleophilicities and reduced nucleophilicities",
+        "year": 2025,
+        "journal": "Physical Chemistry Chemical Physics",
+        "volume": "27",
+        "pages": "942–950",
+        "article_number": null,
+        "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+      },
+      "attempts": [
+        {
+          "id": "R05",
+          "doi": "10.1039/d4cp03894k",
+          "source_url": "https://api.crossref.org/works/10.1039/d4cp03894k",
+          "retrieved_at_utc": "2026-10-19T10:18:14.445117+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R05_retrieval.json"
+        }
+      ]
+    },
+    {
+      "id": "R06",
+      "doi": "10.1002/asia.202301106",
+      "online_verified": false,
+      "online_verification_status": "blocked_at_proxy_no_metadata_received",
+      "verified_metadata_additions": {},
+      "local_uploaded_source_baseline": {
+        "source_file": "Chemistry   An Asian Journal - 2024 - Herrmann - Directionality of Halogen‐Bonds  Insights from 2D Energy Decomposition (1).pdf",
+        "authors": [
+          "Barbara Herrmann",
+          "Dennis Svatunek"
+        ],
+        "title": "Directionality of Halogen-Bonds: Insights from 2D Energy Decomposition Analysis",
+        "year": 2024,
+        "journal": "Chemistry – An Asian Journal",
+        "volume": "19",
+        "pages": null,
+        "article_number": "e202301106",
+        "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+      },
+      "attempts": [
+        {
+          "id": "R06",
+          "doi": "10.1002/asia.202301106",
+          "source_url": "https://api.crossref.org/works/10.1002/asia.202301106",
+          "retrieved_at_utc": "2026-10-19T10:18:14.445469+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R06_retrieval.json"
+        }
+      ]
+    },
+    {
+      "id": "R07",
+      "doi": "10.1021/jacs.3c11449",
+      "online_verified": false,
+      "online_verification_status": "blocked_at_proxy_no_metadata_received",
+      "verified_metadata_additions": {},
+      "local_uploaded_source_baseline": {
+        "source_file": "ja3c11449.pdf",
+        "authors": [
+          "Lianne H. E. Wieske",
+          "Mate Erdélyi"
+        ],
+        "title": "Halogen Bonds of Halogen(I) Ions—Where Are We and Where to Go?",
+        "year": 2024,
+        "journal": "Journal of the American Chemical Society",
+        "volume": "146",
+        "pages": "3–18",
+        "article_number": null,
+        "bibliographic_status": "上传正式Perspective内核对；未联网二次核验"
+      },
+      "attempts": [
+        {
+          "id": "R07",
+          "doi": "10.1021/jacs.3c11449",
+          "source_url": "https://api.crossref.org/works/10.1021/jacs.3c11449",
+          "retrieved_at_utc": "2026-10-19T10:18:14.462153+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R07_retrieval.json"
+        }
+      ]
+    },
+    {
+      "id": "R08",
+      "doi": "10.3390/molecules26071885",
+      "online_verified": false,
+      "online_verification_status": "blocked_at_proxy_no_metadata_received",
+      "verified_metadata_additions": {},
+      "local_uploaded_source_baseline": {
+        "source_file": "molecules-26-01885.pdf",
+        "authors": [
+          "Susana Portela",
+          "Israel Fernández"
+        ],
+        "title": "Nature of the Hydrogen Bond Enhanced Halogen Bond",
+        "year": 2021,
+        "journal": "Molecules",
+        "volume": "26",
+        "pages": null,
+        "article_number": "1885",
+        "bibliographic_status": "上传正式PDF内核对；内文不一致已标出，未联网二次核验"
+      },
+      "attempts": [
+        {
+          "id": "R08",
+          "doi": "10.3390/molecules26071885",
+          "source_url": "https://api.crossref.org/works/10.3390/molecules26071885",
+          "retrieved_at_utc": "2026-10-19T10:18:14.463397+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R08_retrieval.json"
+        }
+      ]
+    },
+    {
+      "id": "R09",
+      "doi": "10.1039/c6ce02089e",
+      "online_verified": false,
+      "online_verification_status": "blocked_at_proxy_no_metadata_received",
+      "verified_metadata_additions": {},
+      "local_uploaded_source_baseline": {
+        "source_file": "c6ce02089e.pdf",
+        "authors": [
+          "M. D. Perera",
+          "J. Desper",
+          "A. S. Sinha",
+          "C. B. Aakeröy"
+        ],
+        "title": "Impact and importance of electrostatic potential calculations for predicting structural patterns of hydrogen and halogen bonding",
+        "year": 2016,
+        "journal": "CrystEngComm",
+        "volume": "18",
+        "pages": "8631–8636",
+        "article_number": null,
+        "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+      },
+      "attempts": [
+        {
+          "id": "R09",
+          "doi": "10.1039/c6ce02089e",
+          "source_url": "https://api.crossref.org/works/10.1039/c6ce02089e",
+          "retrieved_at_utc": "2026-10-19T10:18:14.466552+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R09_retrieval.json"
+        }
+      ]
+    },
+    {
+      "id": "R10",
+      "doi": "10.1021/cg500094b",
+      "online_verified": false,
+      "online_verification_status": "blocked_at_proxy_no_metadata_received",
+      "verified_metadata_additions": {},
+      "local_uploaded_source_baseline": {
+        "source_file": "cg500094b.pdf",
+        "authors": [
+          "Firas F. Awwadi",
+          "Deeb Taher",
+          "Salim F. Haddad",
+          "Mark M. Turnbull"
+        ],
+        "title": "Competition between Hydrogen and Halogen Bonding Interactions: Theoretical and Crystallographic Studies",
+        "year": 2014,
+        "journal": "Crystal Growth & Design",
+        "volume": "14",
+        "pages": "1961–1971",
+        "article_number": null,
+        "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+      },
+      "attempts": [
+        {
+          "id": "R10",
+          "doi": "10.1021/cg500094b",
+          "source_url": "https://api.crossref.org/works/10.1021/cg500094b",
+          "retrieved_at_utc": "2026-10-19T10:18:14.468078+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R10_retrieval.json"
+        }
+      ]
+    },
+    {
+      "id": "R11",
+      "doi": "10.1002/cplu.202100102",
+      "online_verified": false,
+      "online_verification_status": "blocked_at_proxy_no_metadata_received",
+      "verified_metadata_additions": {},
+      "local_uploaded_source_baseline": {
+        "source_file": "cplu.202100102.pdf",
+        "authors": [
+          "Amila M. Abeysekera",
+          "Boris B. Averkiev",
+          "Abhijeet S. Sinha",
+          "Pierre Le Magueres",
+          "Christer B. Aakeröy"
+        ],
+        "title": "Establishing Halogen-Bond Preferences in Molecules with Multiple Acceptor Sites",
+        "year": 2021,
+        "journal": "ChemPlusChem",
+        "volume": "86",
+        "pages": null,
+        "article_number": null,
+        "bibliographic_status": "DOI可定位的预排PDF；最终页码待核实"
+      },
+      "attempts": [
+        {
+          "label": "R11_crossref_doi",
+          "source_url": "https://doi.org/10.1002/cplu.202100102",
+          "accept": "application/vnd.citationstyles.csl+json",
+          "retrieved_at_utc": "2026-10-19T10:18:32.603134+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R11_crossref_doi_retrieval.json"
+        },
+        {
+          "label": "R11_doi",
+          "source_url": "https://doi.org/10.1002/cplu.202100102",
+          "accept": "text/html",
+          "retrieved_at_utc": "2026-10-19T10:18:32.600945+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R11_doi_retrieval.json"
+        },
+        {
+          "id": "R11",
+          "doi": "10.1002/cplu.202100102",
+          "source_url": "https://api.crossref.org/works/10.1002/cplu.202100102",
+          "retrieved_at_utc": "2026-10-19T10:18:14.469678+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R11_retrieval.json"
+        },
+        {
+          "label": "R11_wiley",
+          "source_url": "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cplu.202100102",
+          "accept": "text/html",
+          "retrieved_at_utc": "2026-10-19T10:18:32.601752+00:00",
+          "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+          "retrieval_record_file": "/tmp/stage6_bib/R11_wiley_retrieval.json"
+        }
+      ]
+    }
+  ],
+  "network_note": "所有HTTPS请求在代理CONNECT阶段403，未收到Crossref/DOI出版社远端元数据响应。HTTP接口请求返回403；保存错误响应本体。此处HTTP403不是出版社/论文不存在的证据。",
+  "attempt_count": 17
+}

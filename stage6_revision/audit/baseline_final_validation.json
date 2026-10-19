@@ -1,0 +1,48 @@
+{
+  "status": "passed",
+  "checks": [
+    "Complete six-chapter manuscript, abstract and keywords; explicit unresolved fields and corrected NOCV/CT wording.",
+    "11 references, first-citation numbering and ascending compound superscripts; no unverifiable R12–R14 citations.",
+    "Original source hashes unchanged; 2016 original-cell fields match frozen data.",
+    "All three Word files readable; main has 4 images/3 native tables and superscript references; supplement has 2 images/2 native tables.",
+    "Main and supplement PDFs readable, text extractable, correct embedded figure counts, no page-overflow images or missing-glyph warnings.",
+    "17-sheet workbook with 56 configurations, 28 pairs, 2733 evidence rows and 11 final reference mappings; all 18 standalone image files readable."
+  ],
+  "original_cell_checks": 2016,
+  "counts": {
+    "body_cjk_characters": 13883,
+    "body_all_characters": 21239,
+    "main_with_figures_tables_cjk_characters": 14500,
+    "references": 11,
+    "main_figures": 4,
+    "supplementary_figures": 2,
+    "native_result_tables": 3,
+    "reference_order": [
+      "R02",
+      "R04",
+      "R06",
+      "R01",
+      "R10",
+      "R09",
+      "R11",
+      "R08",
+      "R03",
+      "R05",
+      "R07"
+    ]
+  },
+  "pdfs": {
+    "完整论文初稿.pdf": {
+      "pages": 21,
+      "embedded_figures": 4,
+      "extractable_characters": 27619
+    },
+    "补充材料.pdf": {
+      "pages": 5,
+      "embedded_figures": 2,
+      "extractable_characters": 3118
+    }
+  },
+  "manuscript_sha256": "07d3486df1341e2ed597f51b6ad215b127d031125989103da44453cce5856182",
+  "limits": "Artifact/claim correspondence verified; unknown computational parameters, units, energy references and transfer assignments remain explicitly unverified."
+}

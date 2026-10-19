@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "date": "2026-10-19",
+  "scope": "归档第三至第五阶段成果；未纳入第六阶段修订",
+  "baseline": "final_paper, commit 020f74d",
+  "baseline_files_byte_identical": 100,
+  "archive_adapted_files": [
+    "README.md",
+    "scripts/render_final.py",
+    "审校与交付说明.md"
+  ],
+  "discussion_exact_chapters": [
+    3,
+    4,
+    5
+  ],
+  "discussion_word_figures": 4,
+  "discussion_word_native_tables": 3,
+  "discussion_pdf_pages": 14,
+  "scientific_content_changed": false
+}

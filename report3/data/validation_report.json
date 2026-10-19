@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "checks": [
+    "All 5 source hashes unchanged.",
+    "2016 original-cell fields match; 28 paired differences recomputed and 9 reversals reproduced.",
+    "6 plotting CSVs and all 18 PNG/SVG/PDF files verified; 24 S2 included and 4 explicitly excluded records.",
+    "Word readable with 6 images, 4 native tables and superscript citations; workbook contains 56 configurations, 28 pairs and 2733 source-ledger rows.",
+    "Restored manuscript 11596 characters, all D01–D17 groups present and five references in first-citation order; independent numerical/literature reviews completed."
+  ],
+  "limits": "These checks establish source transcription and usable artifacts. Energy definitions, some units, raw-job settings and transfer classifications remain unverified."
+}

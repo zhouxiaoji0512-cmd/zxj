@@ -1,0 +1,12 @@
+{
+  "body_total_characters": 11596,
+  "body_chinese_characters": 6730,
+  "reference_count": 5,
+  "figures": 6,
+  "tables": 3,
+  "source_ledger_rows": 2733,
+  "docx_paragraphs": 93,
+  "docx_tables": 4,
+  "docx_images": 6,
+  "note": "字符统计包含标签/英文/数字；不声称已完成约1.5万字完整论文。"
+}

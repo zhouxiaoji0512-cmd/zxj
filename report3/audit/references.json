@@ -1,0 +1,707 @@
+{
+  "schema_version": 1,
+  "scope": "仅依据用户上传PDF和report1文件内核对；没有联网、没有新增未读文献；R01–R11为正式或可DOI定位引用候选，最终编号按全稿首次出现重新排序。",
+  "numbering_policy": "Rxx是跨阶段稳定标识，不自动等同正文[n]。GB/T7714-2015顺序编码按最终首次出现排序；超过3名作者以前三名+et al.著录，authors字段保留上传件全部作者。",
+  "references": [
+    {
+      "id": "R01",
+      "source_file": "d6sc02210c.pdf",
+      "authors": [
+        "Shunhua Li",
+        "Hangyu Zhou",
+        "Qingzhong Li",
+        "Steve Scheiner"
+      ],
+      "title": "Strong interactions between carbones and halogen atomic centers",
+      "year": 2026,
+      "journal": "Chemical Science",
+      "volume": "17",
+      "pages": "14950–14962",
+      "article_number": null,
+      "doi": "10.1039/d6sc02210c",
+      "type": "J",
+      "gbt7714": "LI S H, ZHOU H Y, LI Q Z, et al. Strong interactions between carbones and halogen atomic centers[J]. Chemical Science, 2026, 17: 14950–14962. DOI: 10.1039/d6sc02210c.",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "supports": [
+        {
+          "statement": "一种碳(0)母体C(NHCMe)₂与29种含卤Lewis酸形成的相互作用，涵盖ClOH；并非29种碳母体。",
+          "pdf_pages": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "statement": "文献区分冻结单体参考的Eint与优化孤立单体参考的Eb，并说明Eint采用counterpoise。",
+          "pdf_pages": [
+            2
+          ]
+        },
+        {
+          "statement": "ClOH文献几何及能量可显式对照：C···Cl=2.040 Å，O–Cl=2.049 Å；Eint=−40.24，Eb=−20.39，形变差19.85 kcal/mol。",
+          "pdf_pages": [
+            4,
+            5
+          ],
+          "tables": [
+            "Table 2",
+            "Table 3"
+          ]
+        },
+        {
+          "statement": "CLB前线轨道有孤对特征，NBO却可给出弯曲C=C=C成键轨道；NBO供体不一定是LP。",
+          "pdf_pages": [
+            3,
+            7,
+            8
+          ]
+        },
+        {
+          "statement": "ETS的轨道项含电荷转移和极化，GKS-EDA为另一分解框架；Table5的Edisp包含色散和电子相关。",
+          "pdf_pages": [
+            3,
+            8
+          ],
+          "tables": [
+            "Table 5"
+          ]
+        },
+        {
+          "statement": "原有X–Y键和新C···X接触的拓扑应成对分析。",
+          "pdf_pages": [
+            6
+          ],
+          "tables": [
+            "Table 4"
+          ]
+        }
+      ],
+      "does_not_support": [
+        "本研究28个碳(0)标签与同一HOCl的两端配对偏好",
+        "本研究计算方法、单位、CP/ZPE、片段态已由文献证实",
+        "把文献旧O–Cl的ρ=0.0949或轨道图补进自有数据",
+        "仅由静态终态说明转移反应路径或势垒",
+        "将其20 kcal/mol分组或t=1当通用成键阈值"
+      ],
+      "caveats": [
+        "PDF p.5 Table3的ClNC Eint=−115.75与p.8 Table5 Etotal=−325.22不一致，不能未经核查直接等同。",
+        "转移参数t是相对于不同孤立参照的伸长量比，不是两段实际键长比。",
+        "Fig.5是ClF/ClNH₂，Fig.6是BrOH，不是本项目HOCl轨道图。",
+        "CT正文方向表述存在不一致，方向引用应依据p.7明确的CLB→acid主通道，而非p.6过渡句。"
+      ],
+      "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+    },
+    {
+      "id": "R02",
+      "source_file": "jp806101t.pdf",
+      "authors": [
+        "Ibon Alkorta",
+        "Fernando Blanco",
+        "Mohammad Solimannejad",
+        "José Elguero"
+      ],
+      "title": "Competition of Hydrogen Bonds and Halogen Bonds in Complexes of Hypohalous Acids with Nitrogenated Bases",
+      "year": 2008,
+      "journal": "The Journal of Physical Chemistry A",
+      "volume": "112",
+      "pages": "10856–10863",
+      "article_number": null,
+      "doi": "10.1021/jp806101t",
+      "type": "J",
+      "gbt7714": "ALKORTA I, BLANCO F, SOLIMANNEJAD M, et al. Competition of hydrogen bonds and halogen bonds in complexes of hypohalous acids with nitrogenated bases[J]. The Journal of Physical Chemistry A, 2008, 112: 10856–10863. DOI: 10.1021/jp806101t.",
+      "source_pages": [
+        1,
+        2,
+        5,
+        6,
+        7
+      ],
+      "supports": [
+        {
+          "statement": "HOX与NH₃、N₂、NCH的两端竞争随卤素变化：所研究HOCl/HOBr的氢键构型较稳定，HOI两类接近，HOAt偏卤键。",
+          "pdf_pages": [
+            1,
+            7
+          ]
+        },
+        {
+          "statement": "NBO供受体作用能在多数所研究复合物中大于净相互作用能，需考虑排斥等贡献。",
+          "pdf_pages": [
+            5,
+            6
+          ],
+          "tables": [
+            "Table 8"
+          ]
+        },
+        {
+          "statement": "H端/O–H及X端/O–X可呈相应内部键伸长和频率红移。",
+          "pdf_pages": [
+            6,
+            7
+          ]
+        }
+      ],
+      "does_not_support": [
+        "氢键对所有Lewis碱或本研究全部碳(0)体系必然更稳定",
+        "把该文称interaction energy的量直接等同本项目Eint",
+        "以NBO E(2)作为总结合能或真实键能"
+      ],
+      "caveats": [
+        "PDF p.2 interaction energy采用优化孤立单体参考，未用full counterpoise；与R01同名量参考态不同。",
+        "对象为含氮碱，文献kJ/mol数据不与当前kcal/mol未转换混用。"
+      ],
+      "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+    },
+    {
+      "id": "R03",
+      "source_file": "s00894-013-1969-7.pdf",
+      "authors": [
+        "Xiulin An",
+        "Hongying Zhuo",
+        "Yingying Wang",
+        "Qingzhong Li"
+      ],
+      "title": "Competition between hydrogen bonds and halogen bonds in complexes of formamidine and hypohalous acids",
+      "year": 2013,
+      "journal": "Journal of Molecular Modeling",
+      "volume": "19",
+      "pages": "4529–4535",
+      "article_number": null,
+      "doi": "10.1007/s00894-013-1969-7",
+      "type": "J",
+      "gbt7714": "AN X L, ZHUO H Y, WANG Y Y, et al. Competition between hydrogen bonds and halogen bonds in complexes of formamidine and hypohalous acids[J]. Journal of Molecular Modeling, 2013, 19: 4529–4535. DOI: 10.1007/s00894-013-1969-7.",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "supports": [
+        {
+          "statement": "烟台大学团队以甲脒及其衍生物研究HOX两端竞争；所研究Cl/Br的氢键构型较稳定、I的卤键构型较有利。",
+          "pdf_pages": [
+            1,
+            6
+          ]
+        },
+        {
+          "statement": "受体取代基可以调节两种构型能差，Li取代在该模型中缩小差别。",
+          "pdf_pages": [
+            5,
+            6
+          ]
+        },
+        {
+          "statement": "循环构型中存在主要作用与次级接触，构型能量差不是一条孤立HB与一条孤立XB的键能差。",
+          "pdf_pages": [
+            2,
+            3
+          ]
+        }
+      ],
+      "does_not_support": [
+        "把其N受体中的卤素顺序直接移作碳(0)配体序列结论",
+        "把环状多接触稳定化完全归于一个接触",
+        "把作者引言的静电主导说法当成本项目已证实机制"
+      ],
+      "caveats": [
+        "PDF p.2关于次级接触的静电区域有可疑文字，不照抄；以结构、表格和明确结果为准。",
+        "计算层级、CP及NBO/AIM方法只属于该文，不填本项目方法缺口。"
+      ],
+      "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+    },
+    {
+      "id": "R04",
+      "source_file": "j.saa.2014.05.001.pdf",
+      "authors": [
+        "Qingzhong Li",
+        "Hongjie Zhu",
+        "Hongying Zhuo",
+        "Xin Yang",
+        "Wenzuo Li",
+        "Jianbo Cheng"
+      ],
+      "title": "Complexes between hypohalous acids and phosphine derivatives. Pnicogen bond versus halogen bond versus hydrogen bond",
+      "year": 2014,
+      "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+      "volume": null,
+      "pages": null,
+      "article_number": null,
+      "doi": "10.1016/j.saa.2014.05.001",
+      "type": "J/OL",
+      "gbt7714": "LI Q Z, ZHU H J, ZHUO H Y, et al. Complexes between hypohalous acids and phosphine derivatives. Pnicogen bond versus halogen bond versus hydrogen bond[J/OL]. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 2014. DOI: 10.1016/j.saa.2014.05.001. https://doi.org/10.1016/j.saa.2014.05.001.",
+      "source_pages": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        14,
+        15
+      ],
+      "supports": [
+        {
+          "statement": "烟台大学团队考察HOBr:PH₂Y，并以HOCl:PH₂F及HOI:PH₂F作对照，发现含氢键、卤键及磷族键的多个构型。",
+          "pdf_pages": [
+            2,
+            3,
+            5,
+            15
+          ]
+        },
+        {
+          "statement": "HOX卤素与PH₂Y取代基共同影响相对稳定性，部分构型有复合作用而非单一作用。",
+          "pdf_pages": [
+            3,
+            15
+          ]
+        },
+        {
+          "statement": "NCI可显示未被该例AIM键路径检出的弱次级接触。",
+          "pdf_pages": [
+            14
+          ]
+        }
+      ],
+      "does_not_support": [
+        "本研究HOCl–碳(0)两端的具体构型顺序",
+        "把磷族键组合体系概括为一条HB和一条XB的纯键能比较",
+        "按文件页1–31或手稿正文1–30作为期刊最终页码"
+      ],
+      "caveats": [
+        "上传件为Accepted Manuscript；首页有真实DOI、作者、期刊和2014年份，最终卷页未给出。",
+        "最终卷页必须留空；J/OL以DOI定位，审校说明中保留缺页。"
+      ],
+      "bibliographic_status": "DOI可定位的接收稿；最终卷页待核实"
+    },
+    {
+      "id": "R05",
+      "source_file": "d4cp03894k.pdf",
+      "authors": [
+        "Ibon Alkorta",
+        "Anthony Legon"
+      ],
+      "title": "Simple carbenes as hydrogen bond acceptors: ab initio determination of nucleophilicities and reduced nucleophilicities",
+      "year": 2025,
+      "journal": "Physical Chemistry Chemical Physics",
+      "volume": "27",
+      "pages": "942–950",
+      "article_number": null,
+      "doi": "10.1039/d4cp03894k",
+      "type": "J",
+      "gbt7714": "ALKORTA I, LEGON A. Simple carbenes as hydrogen bond acceptors: ab initio determination of nucleophilicities and reduced nucleophilicities[J]. Physical Chemistry Chemical Physics, 2025, 27: 942–950. DOI: 10.1039/d4cp03894k.",
+      "source_pages": [
+        1,
+        2,
+        3,
+        7,
+        8
+      ],
+      "supports": [
+        {
+          "statement": "简单carbene及同族类似物可作氢键受体，取代基影响亲核性；该特定系列中甲基和氟相对H分别增强和减弱。",
+          "pdf_pages": [
+            3,
+            7
+          ]
+        },
+        {
+          "statement": "(CH₃)₂C···HCl/HBr/HI因短C–H、长H–X及离子对特征从普通亲核性拟合剔出。",
+          "pdf_pages": [
+            3
+          ]
+        },
+        {
+          "statement": "比较需注意电子态和能量符号；CH₂算的是单重态，De为正解离能。",
+          "pdf_pages": [
+            1,
+            2,
+            7,
+            8
+          ]
+        }
+      ],
+      "does_not_support": [
+        "把carbene与carbone作为同义词",
+        "将carbene–HX取代趋势或阈值直接移为本研究carbone–HOCl结论",
+        "其离子对实例已经证明本研究候选完整质子转移"
+      ],
+      "caveats": [
+        "在线2024但正式卷页2025，参考文献采用2025。",
+        "其正De不能不经定义、单位转换与本项目负Eb混画。"
+      ],
+      "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+    },
+    {
+      "id": "R06",
+      "source_file": "Chemistry   An Asian Journal - 2024 - Herrmann - Directionality of Halogen‐Bonds  Insights from 2D Energy Decomposition (1).pdf",
+      "authors": [
+        "Barbara Herrmann",
+        "Dennis Svatunek"
+      ],
+      "title": "Directionality of Halogen-Bonds: Insights from 2D Energy Decomposition Analysis",
+      "year": 2024,
+      "journal": "Chemistry – An Asian Journal",
+      "volume": "19",
+      "pages": null,
+      "article_number": "e202301106",
+      "doi": "10.1002/asia.202301106",
+      "type": "J",
+      "gbt7714": "HERRMANN B, SVATUNEK D. Directionality of halogen-bonds: insights from 2D energy decomposition analysis[J]. Chemistry – An Asian Journal, 2024, 19: e202301106. DOI: 10.1002/asia.202301106.",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "supports": [
+        {
+          "statement": "NH₃···X₂距离—角度二维分析显示总吸引与线性方向性来源需分别讨论；I₂较受Pauli降低影响，Cl₂/F₂中轨道与静电更突出。",
+          "pdf_pages": [
+            2,
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "statement": "不同最小值的平衡距离变化会同时改变EDA项，路径或一致几何比较有助减少混杂。",
+          "pdf_pages": [
+            2
+          ]
+        },
+        {
+          "statement": "形变与相互作用是不同层次；轨道相互作用含片段间给予接受与片段内极化。",
+          "pdf_pages": [
+            2
+          ]
+        }
+      ],
+      "does_not_support": [
+        "本研究HOCl–碳(0)的方向性已证实由Pauli决定",
+        "两个取向终态的柱图能够给出反应路径或唯一因果归因",
+        "ETS-Pauli与当前EX+REP可以无需定义逐值置换"
+      ],
+      "caveats": [
+        "研究对象是NH₃···X₂，不能直接移作强碳(0)–HOCl模型。",
+        "文章号e202301106才是正式定位；1–8是PDF内部页数。"
+      ],
+      "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+    },
+    {
+      "id": "R07",
+      "source_file": "ja3c11449.pdf",
+      "authors": [
+        "Lianne H. E. Wieske",
+        "Mate Erdélyi"
+      ],
+      "title": "Halogen Bonds of Halogen(I) Ions—Where Are We and Where to Go?",
+      "year": 2024,
+      "journal": "Journal of the American Chemical Society",
+      "volume": "146",
+      "pages": "3–18",
+      "article_number": null,
+      "doi": "10.1021/jacs.3c11449",
+      "type": "J",
+      "gbt7714": "WIESKE L H E, ERDÉLYI M. Halogen bonds of halogen(I) ions—Where are we and where to go?[J]. Journal of the American Chemical Society, 2024, 146: 3–18. DOI: 10.1021/jacs.3c11449.",
+      "source_pages": [
+        1,
+        2,
+        4,
+        5,
+        8,
+        9
+      ],
+      "supports": [
+        {
+          "statement": "卤素(I)配合物的三中心四电子成键及其卤素转移应用提供强卤键的概念框架。",
+          "pdf_pages": [
+            1,
+            2,
+            4,
+            8,
+            9
+          ]
+        },
+        {
+          "statement": "此类配合物整体可为阳离子、中性或阴离子，取决于两侧Lewis碱；整体净电荷不能作为模型边界。",
+          "pdf_pages": [
+            4
+          ]
+        },
+        {
+          "statement": "能量比较的反应参照和结构对称性需要明确；不同模型不能仅凭近等键长认同。",
+          "pdf_pages": [
+            4,
+            8
+          ]
+        }
+      ],
+      "does_not_support": [
+        "本研究近等距Cl–NHCme已证明三中心四电子键或完整氯转移",
+        "把该评述概括为仅讨论带正电体系并以净电荷与中性HOCl相区分",
+        "将形式氧化态+I本身当作现有体系特定成键模型的充分证明"
+      ],
+      "caveats": [
+        "正式卷页2024，在线发表于2023。",
+        "应表述为本项目是否适用该三中心模型仍需明确片段参照与成键证据，不能仅凭距离相近确定。"
+      ],
+      "bibliographic_status": "上传正式Perspective内核对；未联网二次核验"
+    },
+    {
+      "id": "R08",
+      "source_file": "molecules-26-01885.pdf",
+      "authors": [
+        "Susana Portela",
+        "Israel Fernández"
+      ],
+      "title": "Nature of the Hydrogen Bond Enhanced Halogen Bond",
+      "year": 2021,
+      "journal": "Molecules",
+      "volume": "26",
+      "pages": null,
+      "article_number": "1885",
+      "doi": "10.3390/molecules26071885",
+      "type": "J",
+      "gbt7714": "PORTELA S, FERNÁNDEZ I. Nature of the hydrogen bond enhanced halogen bond[J]. Molecules, 2021, 26: 1885. DOI: 10.3390/molecules26071885.",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      "supports": [
+        {
+          "statement": "邻近氢键可增强所研究芳基碘供体与Cl⁻之间的卤键，静电和轨道项共同变化；竞争与协同需区分。",
+          "pdf_pages": [
+            1,
+            3,
+            4,
+            8
+          ]
+        },
+        {
+          "statement": "EDA-NOCV的轨道项含电荷转移和极化，完整Eint公式包括Pauli项。",
+          "pdf_pages": [
+            8
+          ]
+        }
+      ],
+      "does_not_support": [
+        "HOCl两端构型的竞争顺序",
+        "其约3 kcal/mol增强为所有体系普遍量值",
+        "其表注中遗漏Pauli的吸引项之和等于总相互作用能",
+        "直接采用其有内部差异的计算层级作为本项目方法"
+      ],
+      "caveats": [
+        "Table1/Table3注a的公式只列吸引项却标ΔEint，PDF p.8正文完整公式含Pauli；不能照抄表注。",
+        "Table1部分NOCV分通道与rest合计不等于所列总轨道项，不能无核查复用。",
+        "优化基组正文写def2-TZVPP而表注层级写def2-SVP，QTAIM段还出现D2/D3不一致；只用受限定性协同结论。",
+        "PDF p.3文字把3/4的能量高低写反，以表内负值与明确结论为准。"
+      ],
+      "bibliographic_status": "上传正式PDF内核对；内文不一致已标出，未联网二次核验"
+    },
+    {
+      "id": "R09",
+      "source_file": "c6ce02089e.pdf",
+      "authors": [
+        "M. D. Perera",
+        "J. Desper",
+        "A. S. Sinha",
+        "C. B. Aakeröy"
+      ],
+      "title": "Impact and importance of electrostatic potential calculations for predicting structural patterns of hydrogen and halogen bonding",
+      "year": 2016,
+      "journal": "CrystEngComm",
+      "volume": "18",
+      "pages": "8631–8636",
+      "article_number": null,
+      "doi": "10.1039/c6ce02089e",
+      "type": "J",
+      "gbt7714": "PERERA M D, DESPER J, SINHA A S, et al. Impact and importance of electrostatic potential calculations for predicting structural patterns of hydrogen and halogen bonding[J]. CrystEngComm, 2016, 18: 8631–8636. DOI: 10.1039/c6ce02089e.",
+      "source_pages": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "supports": [
+        {
+          "statement": "多位点受体的MEP可提出位点选择预期，再用共晶结构验证；该文38和26 kJ/mol差值的两个受体呈现不同选择性。",
+          "pdf_pages": [
+            1,
+            3,
+            5
+          ]
+        },
+        {
+          "statement": "固态选择性还需考虑多晶型与溶剂等适用范围，作者未充分作多晶型筛选。",
+          "pdf_pages": [
+            5
+          ]
+        }
+      ],
+      "does_not_support": [
+        "38 kJ/mol是普遍选择性阈值",
+        "静态MEP单值足以定量预测本研究HOCl两端能差",
+        "其固态晶格结果直接等同孤立二聚体自由能偏好"
+      ],
+      "caveats": [
+        "摘要称42新共晶，正文p.3为42次尝试中33个IR阳性；若统计规模必要，按正文限定。",
+        "用作初始MEP位点假说的背景，不能把其B3LYP/6-31G*层级填入本项目。"
+      ],
+      "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+    },
+    {
+      "id": "R10",
+      "source_file": "cg500094b.pdf",
+      "authors": [
+        "Firas F. Awwadi",
+        "Deeb Taher",
+        "Salim F. Haddad",
+        "Mark M. Turnbull"
+      ],
+      "title": "Competition between Hydrogen and Halogen Bonding Interactions: Theoretical and Crystallographic Studies",
+      "year": 2014,
+      "journal": "Crystal Growth & Design",
+      "volume": "14",
+      "pages": "1961–1971",
+      "article_number": null,
+      "doi": "10.1021/cg500094b",
+      "type": "J",
+      "gbt7714": "AWWADI F F, TAHER D, HADDAD S F, et al. Competition between hydrogen and halogen bonding interactions: theoretical and crystallographic studies[J]. Crystal Growth & Design, 2014, 14: 1961–1971. DOI: 10.1021/cg500094b.",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        10
+      ],
+      "supports": [
+        {
+          "statement": "卤代吡啶鎓四卤合铜晶体中HB/XB共同组织结构，同构系列可减少几何与其他相互作用的混杂。",
+          "pdf_pages": [
+            1,
+            3,
+            10
+          ]
+        },
+        {
+          "statement": "受研究带电环境与几何图样影响，两种作用的相对贡献会变化。",
+          "pdf_pages": [
+            3,
+            6,
+            10
+          ]
+        }
+      ],
+      "does_not_support": [
+        "氢键在所有体系中必强于卤键",
+        "把带电簇整体相互作用能当成一条纯HB/XB键能",
+        "其绝对能差、约束角度或晶体距离阈值可直接移到中性HOCl–碳(0)"
+      ],
+      "caveats": [
+        "PDF p.3明确能量包含阳离子–阴离子整体静电与其他作用，且有扭转角约束；其HB总更强结论仅限所研究模型。"
+      ],
+      "bibliographic_status": "上传正式PDF内核对；未联网二次核验"
+    },
+    {
+      "id": "R11",
+      "source_file": "cplu.202100102.pdf",
+      "authors": [
+        "Amila M. Abeysekera",
+        "Boris B. Averkiev",
+        "Abhijeet S. Sinha",
+        "Pierre Le Magueres",
+        "Christer B. Aakeröy"
+      ],
+      "title": "Establishing Halogen-Bond Preferences in Molecules with Multiple Acceptor Sites",
+      "year": 2021,
+      "journal": "ChemPlusChem",
+      "volume": "86",
+      "pages": null,
+      "article_number": null,
+      "doi": "10.1002/cplu.202100102",
+      "type": "J/OL",
+      "gbt7714": "ABEYSEKERA A M, AVERKIEV B B, SINHA A S, et al. Establishing halogen-bond preferences in molecules with multiple acceptor sites[J/OL]. ChemPlusChem, 2021, 86. DOI: 10.1002/cplu.202100102. https://doi.org/10.1002/cplu.202100102.",
+      "source_pages": [
+        1,
+        2,
+        6,
+        8
+      ],
+      "supports": [
+        {
+          "statement": "多位点受体的原有氢键类型与位点可及性影响共晶中的HB/XB竞争；三个2Pyr晶体保留分子内HB，其他10晶体有9个改组原分子间HB。",
+          "pdf_pages": [
+            1,
+            6,
+            8
+          ]
+        },
+        {
+          "statement": "在13个所研究晶体的26个目标–供体接触中，21个选N、4个选O、1个选π，是样本统计。",
+          "pdf_pages": [
+            6,
+            8
+          ]
+        }
+      ],
+      "does_not_support": [
+        "N位点81%是所有分子的普遍亲和概率",
+        "卤键必然替换原有氢键",
+        "由该文羰基IR位移直接判定本项目HOCl质子或氯转移",
+        "把预排页1–10著录为正式期刊页码"
+      ],
+      "caveats": [
+        "上传件页脚明确These are not the final page numbers；最终页码未知，留null，J/OL以DOI定位。",
+        "本文是共晶/IR/SCXRD研究，不提供本项目可继承的量子计算设置。"
+      ],
+      "bibliographic_status": "DOI可定位的预排PDF；最终页码待核实"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "R12",
+      "source_file": "Comparison Between Hydrogen and Halogen Bonds in Complexes of 6-O.pdf",
+      "readable": true,
+      "title": "Competition between Hydrogen and Halogen Bonds in Complexes of 6-OX-Fulvene with Pnicogen and Chalcogen Electron Donors",
+      "reason": "手稿包含DOI/编辑占位符，文件内不能核实正式出版年刊卷页及DOI；剔除正式引用候选，不代表无法读取或否认其科学内容。"
+    },
+    {
+      "id": "R13",
+      "source_file": "cs3c01131_si_001.pdf",
+      "readable": true,
+      "title": "Hydrogen Bond Enhanced Halogen Bonding Organocatalyst with C(sp3)-Br and Sulfoxide Moieties [Supporting Information]",
+      "reason": "仅上传SI，父文献正文及完整书目未核实；不得从文件名推造DOI或将SI当父文献已读。"
+    },
+    {
+      "id": "R14",
+      "source_file": "ja0c12084_si_001.pdf",
+      "readable": true,
+      "title": "Donor Stabilized Antimony(I) and Bismuth(I) Ions: Heavier Valence Isoelectronic Analogues of Carbones [Supporting Information]",
+      "reason": "仅上传SI，父文献出版书目未核实，研究对象是重元素类似物；不是本研究碳(0)结果的直接证据。"
+    }
+  ]
+}
